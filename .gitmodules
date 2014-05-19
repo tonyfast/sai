@@ -1,0 +1,6 @@
+[submodule "MatUtility"]
+	path = MatUtility
+	url = https://github.com/tonyfast/MatUtility.git
+[submodule "Matlab-Bootstrap-GH"]
+	path = Matlab-Bootstrap-GH
+	url = https://github.com/tonyfast/Matlab-Bootstrap-GH
